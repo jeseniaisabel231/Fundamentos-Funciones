@@ -8,9 +8,11 @@ Orden de precedencia: Determinan el orden en el que se evalúan los operadores.
 
 Truthy: Un valor si se considera true cuando se evalua en un contexto booleano. 
 Falsy: Si se considera true cuando se evalua en un contexto booleano.
+
 ![image](https://github.com/jeseniaisabel231/Fundamentos-Funciones/assets/130105827/0b746209-7beb-4f2f-8714-7b7edde73abf)
 
 Igualdad estricta: Establece que dos valores son exactamente iguales, este caso para igualdad estricta se utiliza el operador === (compara los valores y los tipos de datos), a diferencia del operador ==.
+
 ![image](https://github.com/jeseniaisabel231/Fundamentos-Funciones/assets/130105827/5bc2a519-32a7-45e4-ae4f-ebd1b79b76b4)
 
 Tipos de operadores: El siguiente código muestra diferentes tipos de operadores como: asignación, comparación, aritméticos, bit a bit, lógicos y de cadena.
